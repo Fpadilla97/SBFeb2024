@@ -1,11 +1,9 @@
 {
  "cells": [
   {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "0fa7da8f-205b-4c3e-b1f2-420e8bb5f8cb",
+   "cell_type": "markdown",
+   "id": "7621b0ac-25b9-4d3d-9f0d-f8b40aea5b44",
    "metadata": {},
-   "outputs": [],
    "source": [
     "Welcome to the SQL mini project. You will carry out this project partly in\n",
     "the PHPMyAdmin interface, and partly in Jupyter via a Python connection.\n",
